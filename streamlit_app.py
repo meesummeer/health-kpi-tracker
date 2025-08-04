@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -56,4 +55,11 @@ st.plotly_chart(fig4, use_container_width=True)
 st.subheader("Recent Patient Activity")
 st.dataframe(
     kpi_patients.sort_values("last_visit", ascending=False)[
-        ["name", "doctor", "last_visit", "_]()
+        ["name", "doctor", "last_visit", "diagnosis", "consultation_time", "payment_status", "payer", "amount"]
+    ].reset_index(drop=True),
+    use_container_width=True,
+    hide_index=True
+)
+
+# --- Footer ---
+st.markdown("<hr><center style='color:gray;'>Built by Meesum Mir · CyberHealth Solutions · 2025</center>", unsafe_allow_html=True)
