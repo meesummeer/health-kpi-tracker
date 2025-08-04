@@ -1,0 +1,31 @@
+name,doctor,last_visit,diagnosis,consultation_time,payment_status,payer,amount
+Patient 205,Dr. Usman,2025-06-24,Asthma,13,Partially Paid,Other,4023
+Patient 218,Dr. Usman,2025-06-11,Hypertension,10,Partially Paid,Insurance,3328
+Patient 109,Dr. Fatima,2025-06-08,Diabetes,22,Partially Paid,Insurance,3629
+Patient 134,Dr. Usman,2025-07-19,Diabetes,21,Unpaid,Other,3003
+Patient 121,Dr. Ali,2025-07-05,Hypertension,18,Paid,Insurance,2831
+Patient 176,Dr. Fatima,2025-06-19,Migraine,25,Unpaid,Cash,2554
+Patient 136,Dr. Usman,2025-05-09,Migraine,21,Unpaid,Cash,5394
+Patient 131,Dr. Fatima,2025-05-15,Asthma,18,Partially Paid,Insurance,4899
+Patient 216,Dr. Fatima,2025-04-22,Diabetes,14,Partially Paid,Other,4686
+Patient 138,Dr. Ali,2025-06-09,Migraine,23,Unpaid,Insurance,4511
+Patient 106,Dr. Usman,2025-04-29,Dental Caries,18,Paid,Other,5470
+Patient 103,Dr. Fatima,2025-07-30,Diabetes,11,Partially Paid,Insurance,4219
+Patient 121,Dr. Fatima,2025-06-29,Flu,13,Unpaid,Cash,4602
+Patient 197,Dr. Ali,2025-07-23,Hypertension,21,Unpaid,Other,2753
+Patient 194,Dr. Fatima,2025-06-19,Checkup,17,Partially Paid,Insurance,2186
+Patient 191,Dr. Usman,2025-06-25,Migraine,12,Unpaid,Cash,4896
+Patient 126,Dr. Usman,2025-04-06,Hypertension,10,Unpaid,Cash,4008
+Patient 179,Dr. Ali,2025-07-11,Dental Caries,22,Paid,Other,3850
+Patient 214,Dr. Usman,2025-06-01,Hypertension,12,Partially Paid,Insurance,5499
+Patient 121,Dr. Usman,2025-06-04,Hypertension,20,Paid,Cash,2781
+Patient 202,Dr. Usman,2025-07-01,Hypertension,13,Unpaid,Other,2199
+Patient 205,Dr. Fatima,2025-05-10,Dental Caries,23,Paid,Cash,4648
+Patient 161,Dr. Usman,2025-05-04,Flu,18,Unpaid,Other,4843
+Patient 197,Dr. Usman,2025-06-28,Flu,16,Unpaid,Other,3600
+Patient 151,Dr. Fatima,2025-07-28,Dental Caries,19,Partially Paid,Insurance,4814
+Patient 169,Dr. Usman,2025-06-24,Asthma,14,Partially Paid,Insurance,5018
+Patient 108,Dr. Fatima,2025-07-30,Asthma,15,Paid,Cash,3286
+Patient 161,Dr. Ali,2025-06-29,Asthma,18,Unpaid,Cash,3136
+Patient 162,Dr. Usman,2025-04-20,Hypertension,21,Partially Paid,Insurance,4828
+Patient 167,Dr. Ali,2025-06-07,Diabetes,13,Partially Paid,Insurance,5219
