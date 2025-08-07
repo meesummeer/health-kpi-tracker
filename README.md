@@ -63,8 +63,8 @@ Founder – CyberHealth Solutions
 
 ## 🌐 Live Demo
 
-- [Live KPI Dashboard]([your-streamlit-link-here](https://health-kpi-tracker-bpohgqvloqmgjw9jxmmbva.streamlit.app/))
-- [GitHub Repo]([your-repo-link-here](https://github.com/meesummeer/health-kpi-tracker/tree/main))
+- [Live KPI Dashboard](https://health-kpi-tracker-bpohgqvloqmgjw9jxmmbva.streamlit.app/))
+- [GitHub Repo](https://github.com/meesummeer/health-kpi-tracker)
 
 ---
 
